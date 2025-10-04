@@ -48,3 +48,31 @@ This project analyzes **New York City Airbnb listings** to understand factors dr
 ---
 
 ## 📂 Project Structure
+├── Airbnb_NYC_Analysis.ipynb # Main analysis notebook
+├── Airbnb_Open_Data.csv # Dataset (upload in Colab)
+├── exports/ # Generated charts & CSVs
+└── README.md # Project overview
+
+---
+
+## 📊 Sample Outputs (Preview)
+
+Here are a few charts generated from the analysis:
+
+### Listings by Neighborhood Group
+![Listings by Neighborhood Group](exports/q2_neighborhood_group_counts.png)
+
+### Average Price by Neighborhood Group
+![Average Price by Neighborhood Group](exports/q3_avg_price_by_group.png)
+
+### Top 10 Hosts by Listings
+![Top 10 Hosts](exports/q5_top_hosts.png)
+
+### Ratings Heatmap (Neighborhood vs Room Type)
+![Ratings Heatmap](exports/q8_heatmap_group_room_rating.png)
+
+---
+
+✨ **Author:** Mayank Kumar Singh  
+📅 **Year:** 2025  
+
